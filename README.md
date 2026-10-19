@@ -2,7 +2,12 @@
 Average GNPA Ratio by Sector
 This analysis compares the quarterly average Gross Non-Performing Assets (GNPA) ratio across Public Sector Undertaking (PSU) and private sector banks from 2021 to 2025.
 
+## Dashboard Preview
 
+![Banking Sector Financial Performance Dashboard](banking_dashboard.png)
+
+*Dashboard illustrating quarterly banking performance, GNPA ratios,
+deposits, advances, NII and CASA metrics across PSU and private banks.*
 
 Key observations
 
